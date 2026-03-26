@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections.Generic;
 
-using ThisOtherThing.Utils;
 using RoundingProperties = ThisOtherThing.UI.GeoUtils.RoundingProperties;
+using MinAttribute = ThisOtherThing.Utils.MinAttribute;
 
 namespace ThisOtherThing.UI.ShapeUtils
 {
